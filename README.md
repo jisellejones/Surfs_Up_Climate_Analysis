@@ -19,7 +19,7 @@ The purpose of this analysis was to give the client information about temperatur
 The results of this analysis are outlined below.
 - The table
 
-![Temperature Stats in June and July](temp_table.png)
+![Temperature Stats in June and July](https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png)
 
 ## Summary
 
