@@ -16,21 +16,21 @@ The purpose of this analysis was to give the client information about temperatur
     
 ## Results
 
-The results of this analysis are outlined below.
+The results of the temperature analysis are outlined below.
 
 - There is a 200 count difference between the number of times the temperature was measured in June than in December (see table 1). This could be due to the null values found and removed in the June data. There is not information about why there was no data for these times. The 200 count difference is not significant enough to impact the results of the analysis.
 
 - There were no significant differences between the average temperature in the months of June and December (see table 1). June has an average temperature of 74.9 °F with a mean of 75 °F. December shows an average temperature of 71 °F with the same mean. The temperature in these months seems very stable.
 
-- 
-
-
 *Table 1*
+<img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="200" height="200">
 
-<div><img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="200" height="200"></div>
+- The most significant difference was in the low temperatures and range in months of 
+<img src="https://github.com/jisellejones/surfs_up/blob/main/Images/histogram_june_temps.png" width="200" height="200"><img src="https://github.com/jisellejones/surfs_up/blob/main/Images/histogram_dec_temps.png" width="200" height="200">
 
 
-- 
+A secondary analysis was run on the precipitation in the months of June and December by year to determine the number of days that may not be surfable due to heavy rainfall.
+
 
 ## Summary
 
