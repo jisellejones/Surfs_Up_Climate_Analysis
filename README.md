@@ -22,7 +22,7 @@ The results of this analysis are outlined below.
 
 *Table 1*
 
-<div> style="text-align:center"><img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="200" height="200"></div>
+<div><style="text-align:center"><img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="200" height="200"></div>
 
 
 - 
