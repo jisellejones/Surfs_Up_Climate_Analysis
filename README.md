@@ -16,9 +16,13 @@ The purpose of this analysis was to give the client information about temperatur
     
 ## Results
 
-The resuls of this analysis are as follows:
-- 
+The results of this analysis are outlined below.
+- The table
+
+![Temperature Stats in June and July](temp_table.png)
 
 ## Summary
 
 In 2010, heavy rainfall hit the island of O'ahu which accounts for the high precipiation average in December 
+
+How frequent are heavy rainfalls? Is there a particular month or season where it would make sense to close the shop due to a pattern of inclement weather?
