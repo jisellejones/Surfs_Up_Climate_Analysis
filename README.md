@@ -23,10 +23,11 @@ The results of the temperature analysis are outlined below.
 - There were no significant differences between the average temperature in the months of June and December (see table 1). June has an average temperature of 74.9 °F with a mean of 75 °F. December shows an average temperature of 71 °F with the same mean. The temperature in these months seems very stable.
 
 *Table 1*
+
 <img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="200" height="200">
 
 - The most significant difference was in the low temperatures and range in months of 
-<img src="https://github.com/jisellejones/surfs_up/blob/main/Images/histogram_june_temps.png" width="300" height="200"> <img src="https://github.com/jisellejones/surfs_up/blob/main/Images/histogram_dec_temps.png" width="300" height="200">
+<img src="https://github.com/jisellejones/surfs_up/blob/main/Images/histogram_june_temps.png" width="300" height="200">    <img src="https://github.com/jisellejones/surfs_up/blob/main/Images/histogram_dec_temps.png" width="300" height="200">
 
 
 A secondary analysis was run on the precipitation in the months of June and December by year to determine the number of days that may not be surfable due to heavy rainfall.
