@@ -22,9 +22,8 @@ The results of this analysis are outlined below.
 
 *Table 1*
 
-<img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="100" height="100">
+<img src="https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png" width="200" height="200">
 
-![Temperature Stats in June and July](https://github.com/jisellejones/surfs_up/blob/main/Images/temp_table.png)
 
 - 
 
