@@ -18,7 +18,12 @@ The purpose of this analysis was to give the client information about temperatur
 
 The results of this analysis are outlined below.
 
-- Table 1 shows that there are no significant differences between the average temperature in the months of June and December. June has an average temperature of 74.9 °F with a mean of 75 °F. December shows an average temperature of 71 °F with the same mean. The temperature in these months seems very stable.
+- There is a 200 count difference between the number of times the temperature was measured in June than in December (see table 1). This could be due to the null values found and removed in the June data. There is not information about why there was no data for these times. The 200 count difference is not significant enough to impact the results of the analysis.
+
+- There were no significant differences between the average temperature in the months of June and December (see table 1). June has an average temperature of 74.9 °F with a mean of 75 °F. December shows an average temperature of 71 °F with the same mean. The temperature in these months seems very stable.
+
+- 
+
 
 *Table 1*
 
